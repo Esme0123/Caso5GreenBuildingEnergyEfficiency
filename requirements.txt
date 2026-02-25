@@ -1,0 +1,10 @@
+# Librerías básicas para manejo de datos
+pandas
+numpy
+
+# Visualización de datos
+matplotlib
+seaborn
+
+# Machine Learning (Modelos, preprocesamiento y métricas)
+scikit-learn
