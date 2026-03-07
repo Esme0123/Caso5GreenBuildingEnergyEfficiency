@@ -1,10 +1,6 @@
-# Librerías básicas para manejo de datos
-pandas
-numpy
-
-# Visualización de datos
-matplotlib
-seaborn
-
-# Machine Learning (Modelos, preprocesamiento y métricas)
-scikit-learn
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+openpyxl>=3.0.10
