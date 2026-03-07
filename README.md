@@ -32,7 +32,7 @@ Se compararon modelos base frente a ensambles avanzados:
 └── README.md                     <- Portada del proyecto
 ```
 ## 🚀 Cómo reproducir este proyecto
-* **Clona este repositorio:** git clone [URL_DE_TU_REPOSITORIO]
+* **Clona este repositorio:** git clone https://github.com/Esme0123/Caso5GreenBuildingEnergyEfficiency.git
 * **Instala las dependencias:** pip install -r requirements.txt
 * **Ejecuta el notebook:** Dentro de la carpeta /notebooks.
 
