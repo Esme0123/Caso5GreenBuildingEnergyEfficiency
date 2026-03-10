@@ -23,11 +23,11 @@ Se compararon modelos base frente a ensambles avanzados:
 ├── data/
 │   └── ENB2012_data.xlsx         <- Dataset original
 ├── notebooks/
-│   └── Caso5v.ipynb              <- Notebook con el código completo
+│   └── Caso5.ipynb              <- Notebook con el código completo
 ├── report/
-│   └── Informe_Consultoria.pdf   <- Informe ejecutivo (Business Report)
+│   └── informe_consultoria.pdf   <- Informe ejecutivo (Business Report)
 ├── slides/
-│   └── Presentacion.pptx         <- Presentación ejecutiva
+│   └── presentacion_caso5.pdf         <- Presentación ejecutiva
 ├── requirements.txt              <- Dependencias del entorno
 └── README.md                     <- Portada del proyecto
 ```
